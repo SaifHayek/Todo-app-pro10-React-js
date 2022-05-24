@@ -8,4 +8,4 @@
 - CSS
 - javascript
 - local storage
-- React Js (props,status,class component)
+- React Js (props,state,class component)
